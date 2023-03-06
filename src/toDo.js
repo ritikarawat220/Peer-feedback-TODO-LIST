@@ -14,5 +14,5 @@ class ToDo {
     }
   }
 }
-ToDo.list = []; // Initialize the static list variable outside the class
+ToDo.list = [];
 export default ToDo;
